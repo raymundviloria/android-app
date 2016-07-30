@@ -1,0 +1,4 @@
+cython==0.24.1
+mercurial==3.8.4
+hg+http://bitbucket.org/pygame/pygame
+kivy
